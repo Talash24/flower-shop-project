@@ -255,5 +255,64 @@ span {
 
 .part-6 img {
      height: 200px;
-    
 }
+
+.part-7-heading {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-top: 20px;
+}
+
+
+.part-7 {
+     background: black;
+     width: 100%;
+     height: 280px;
+     margin-top: 100px;
+}
+
+.part-7-title {
+    color: #FFF;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 800;
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+
+.part {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.part-7-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    width: 400px;
+    padding-left: 430px;
+    padding-bottom: 15px;
+}
+
+.la {
+color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-size: 8px;
+font-weight: 400;
+
+}
+
+
+
